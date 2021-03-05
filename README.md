@@ -1,4 +1,3 @@
-# Apuntes_UF2_2
 # Apuntes UF2 2
 ## UF2_2: Documentació i optimització
 - Optimització:
@@ -18,5 +17,15 @@
             Son aquellos análisis que se centran en unico modulo es decir que ese modulo es independiente y no comparte infromación con otros modulos.
 
 - DOCUMENTACIÓN:
-    --
-    En esta parte se basa en admnistrar la información necesaria para que alguien externo al projecto sepa la funcionalidad del programa el tipo de estructura de codigo y los metodos utilizados y tambien manual de usuario para poder saber como funciona el prgrama
+   --
+    En esta parte se basa en admnistrar la información necesaria para que alguien externo al projecto sepa la funcionalidad del programa el tipo de estructura de codigo y los metodos utilizados y tambien manual de usuario para poder saber como funciona el prgrama, hay diferentes tipos:
+    - Documentación de código:
+        --
+        Es la documentación que da información sobre el codigo fuente y sus funciones.
+            
+    - Documentación técnica:
+        --
+        Es la documentación tecnica a nivel funcionalidad del programa,etc...
+    - Documentación de usuario: 
+        --
+        Se basa en enseñar como funciona el programa  a nivel de interactuar el usuario con el pograma.
